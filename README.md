@@ -1,5 +1,5 @@
 # 
-🎓 Third-year Computer Science student at the **University of Nottingham**  
+🎓 Computer Science Graduate at the **University of Nottingham**  
 💡 Passionate about software engineering, AI, cybersecurity, and open source  
 🧠 Currently learning: advanced cryptography, reinforcement learning, and secure systems  
 🌱 Building: intelligent agents, traffic simulation models, and full-stack web apps  
